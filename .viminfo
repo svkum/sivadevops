@@ -11,12 +11,16 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:x
-|2,0,1664379487,,"x"
-:X
-|2,0,1664293728,,"X"
 :q!
-|2,0,1663779295,,"q!"
+|2,0,1664774113,,"q!"
+:x
+|2,0,1664773953,,"x"
+:X
+|2,0,1664773944,,"X"
+:!X
+|2,0,1664773939,,"!X"
+:!
+|2,0,1664773911,,"!"
 
 # Search String History (newest to oldest):
 
@@ -27,33 +31,154 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+""0	LINE	0
+	
+|3,1,0,1,1,0,1664773890,""
+"-	CHAR	0
 	w
-|3,1,36,0,1,0,1663779159,"w"
+|3,0,36,0,1,0,1663779159,"w"
 
 # File marks:
-'0  1  0  ~/frist.java
-|4,48,1,0,1664379487,"~/frist.java"
-'1  1  0  ~/useradd.sh
-|4,49,1,0,1664293737,"~/useradd.sh"
-'2  23  0  ~/devops.sh
-|4,50,23,0,1663779295,"~/devops.sh"
-'3  18  0  ~/devops.sh
-|4,51,18,0,1663779121,"~/devops.sh"
-'4  18  0  ~/devops.sh
-|4,52,18,0,1663779121,"~/devops.sh"
-'5  18  0  ~/devops.sh
-|4,53,18,0,1663778570,"~/devops.sh"
-'6  18  0  ~/devops.sh
-|4,54,18,0,1663778570,"~/devops.sh"
+'0  18  4  ~/chessboard.sh
+|4,48,18,4,1664774113,"~/chessboard.sh"
+'1  1  0  ~/chessboard.sh
+|4,49,1,0,1664773985,"~/chessboard.sh"
+'2  1  0  ~/chessboard.sh
+|4,50,1,0,1664773985,"~/chessboard.sh"
+'3  20  0  ~/chessboard.sh
+|4,51,20,0,1664773963,"~/chessboard.sh"
+'4  20  0  ~/chessboard.sh
+|4,52,20,0,1664773963,"~/chessboard.sh"
+'5  19  0  ~/chessboard.sh
+|4,53,19,0,1664773963,"~/chessboard.sh"
+'6  19  0  ~/chessboard.sh
+|4,54,19,0,1664773963,"~/chessboard.sh"
+'7  1  0  ~/frist.java
+|4,55,1,0,1664379487,"~/frist.java"
+'8  1  0  ~/useradd.sh
+|4,56,1,0,1664293737,"~/useradd.sh"
+'9  23  0  ~/devops.sh
+|4,57,23,0,1663779295,"~/devops.sh"
 
 # Jumplist (newest first):
+-'  18  4  ~/chessboard.sh
+|4,39,18,4,1664774113,"~/chessboard.sh"
+-'  1  0  ~/chessboard.sh
+|4,39,1,0,1664774084,"~/chessboard.sh"
+-'  1  0  ~/chessboard.sh
+|4,39,1,0,1664773985,"~/chessboard.sh"
+-'  20  0  ~/chessboard.sh
+|4,39,20,0,1664773963,"~/chessboard.sh"
+-'  19  0  ~/chessboard.sh
+|4,39,19,0,1664773963,"~/chessboard.sh"
+-'  19  0  ~/chessboard.sh
+|4,39,19,0,1664773963,"~/chessboard.sh"
+-'  1  0  ~/chessboard.sh
+|4,39,1,0,1664773541,"~/chessboard.sh"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
+-'  1  0  ~/frist.java
+|4,39,1,0,1664379487,"~/frist.java"
 -'  1  0  ~/frist.java
 |4,39,1,0,1664379487,"~/frist.java"
 -'  1  0  ~/useradd.sh
 |4,39,1,0,1664293737,"~/useradd.sh"
 -'  1  0  ~/useradd.sh
 |4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  1  0  ~/useradd.sh
+|4,39,1,0,1664293737,"~/useradd.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
+-'  23  0  ~/devops.sh
+|4,39,23,0,1663779295,"~/devops.sh"
 -'  23  0  ~/devops.sh
 |4,39,23,0,1663779295,"~/devops.sh"
 -'  23  0  ~/devops.sh
@@ -71,7 +196,61 @@
 -'  18  0  ~/devops.sh
 |4,39,18,0,1663779142,"~/devops.sh"
 -'  18  0  ~/devops.sh
-|4,39,18,0,1663779121,"~/devops.sh"
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
+-'  18  0  ~/devops.sh
+|4,39,18,0,1663779142,"~/devops.sh"
 -'  18  0  ~/devops.sh
 |4,39,18,0,1663779121,"~/devops.sh"
 -'  18  0  ~/devops.sh
@@ -79,39 +258,24 @@
 -'  18  0  ~/devops.sh
 |4,39,18,0,1663779121,"~/devops.sh"
 -'  18  0  ~/devops.sh
-|4,39,18,0,1663778570,"~/devops.sh"
+|4,39,18,0,1663779121,"~/devops.sh"
 -'  18  0  ~/devops.sh
-|4,39,18,0,1663778570,"~/devops.sh"
--'  18  0  ~/devops.sh
-|4,39,18,0,1663778570,"~/devops.sh"
--'  18  0  ~/devops.sh
-|4,39,18,0,1663778570,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
--'  1  0  ~/devops.sh
-|4,39,1,0,1663778551,"~/devops.sh"
+|4,39,18,0,1663779121,"~/devops.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/chessboard.sh
+	*	1664774108	0
+	"	18	4
+	^	18	5
+	.	18	4
+	+	10	31
+	+	11	0
+	+	12	24
+	+	19	0
+	+	21	0
+	+	19	4
+	+	18	4
 
 > ~/frist.java
 	*	1664379482	0

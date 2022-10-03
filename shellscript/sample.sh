@@ -7,6 +7,7 @@ read -p "Please enter any number:" N
 
 for i in {1..10}
 do
-        echo "$N * $:i"
+	
+	echo "$N*$i=$(($N*$i))"
 done
 
