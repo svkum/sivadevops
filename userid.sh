@@ -5,3 +5,6 @@ USERID="$1"
  
 /bin/id -g $USERID 2>/dev/null
 [ $? -eq 0 ] && echo "Group found" || echo "Group not found"
+
+
+
