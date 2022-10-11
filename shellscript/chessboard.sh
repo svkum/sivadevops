@@ -14,5 +14,5 @@ do
             echo -e -n "\033[40m  "
         fi
   done
- echo "" #### print the new line ###
+ echo "" #### print the new line ##
 done
